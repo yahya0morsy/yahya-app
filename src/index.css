@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.blueshadow:hover{
+   background-color: rgb(4, 86, 140);
+   transform: translate(-3% , -3%);
+   box-shadow: 6px 6px 00 rgb(44, 44, 237)
+}
+
